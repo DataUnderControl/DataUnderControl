@@ -1,36 +1,3 @@
-
-Příloha od uživatele
-Profil je uložený a značka už je sjednocená. Vidím název Business Information Management, popis služeb, Data GP s.r.o., web i sociální sítě.
-
-Teď vytvoříme úvodní představení, které se zobrazí přímo na profilu:
-
-Klikni na zelené New vpravo nahoře.
-Vyplň následující:
-Nastavení	Hodnota
-Owner	DataUnderControl
-Repository name	DataUnderControl
-Description	Business Information Management — Data Under Control
-Visibility	Public
-Add a README file	Zapnout
-.gitignore	Nechat bez šablony
-License	Nechat bez licence
-Klikni na Create repository.
-Název musí být přesně DataUnderControl, stejně jako tvůj účet. Do tohoto veřejného repozitáře dáme pouze představení firmy; pracovní projekty pak založíme odděleně jako soukromé.
-
-Příloha od uživatele
-Název je správně a dostupný. Ještě doplň:
-
-Description:
-Business Information Management — Data Under Control
-Add README přepni z Off na On — to je důležité pro zobrazení představení na profilu.
-Public, No .gitignore a No license nech tak, jak jsou.
-Potom klikni na zelené Create repository.
-
-Příloha od uživatele
-Repozitář je vytvořený správně. Teď nahradíme „Hi there 👋“ představením B·I·M.
-
-Klikni na zelené Edit README vpravo, smaž celý původní obsah a vlož:
-
 # B·I·M — Business Information Management
 ### Data Under Control.
 
